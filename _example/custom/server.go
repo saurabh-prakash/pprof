@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/gin-contrib/pprof"
-	"github.com/gin-gonic/gin"
+	"github.com/saurabh-prakash/gin"
+	"github.com/saurabh-prakash/pprof"
 )
 
 func main() {

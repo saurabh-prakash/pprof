@@ -3,7 +3,7 @@ package pprof
 import (
 	"net/http/pprof"
 
-	"github.com/gin-gonic/gin"
+	"github.com/saurabh-prakash/gin"
 )
 
 const (
